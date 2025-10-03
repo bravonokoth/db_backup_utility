@@ -6,7 +6,8 @@ A CLI and API-based tool built with Node.js and Express for backing up and resto
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:bravonokoth/db_backup_utility.git
+
    cd db_backup_utility
    ```
 2. Install dependencies:
